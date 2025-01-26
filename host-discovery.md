@@ -37,4 +37,5 @@ TCP and ICMP.&#x20;
 
 Deliverable 8 - Reflection
 
-* I am not the best with scripting, so it was difficult to start this assignment. I eventually got it and finished the assignment!
+* I am not the best with scripting, so it was difficult to start this assignment. I eventually got it by googling sources and talking to my neighbors.&#x20;
+
