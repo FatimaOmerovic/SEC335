@@ -24,13 +24,23 @@ From [stackoverflow](https://stackoverflow.com/questions/76899269/can-someone-ex
 
 sudo  nmap 10.0.5.31 -p 80
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 sudo nmap 10.0.5.31 -p 3389
 
-..
-
-
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 6.**  Describe the difference in the two wireshark captures
+
+* The ports that originally are asked for show up more than other ports ex: 80 or 3389
+
+**Deliverable 7.**  Add the -Pn flag and provide a wireshark display.  You should have a total of 3 packets and evidence of a simple SYN scan similar to the one below.
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Deliverable 8.** Provide links to any source code written in accomplishing this lab's objectives. If you were asked to write a script (more than a line), make sure this is an actual file uploaded to the source part of github as opposed to a wiki entry.
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

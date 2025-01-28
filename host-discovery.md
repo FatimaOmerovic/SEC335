@@ -4,19 +4,19 @@
 
 Deliverable 1. Provide a screenshot similar to the one below that shows 1 outbound ping and the captured request and reply.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 2**.  Collaborate with your teammates from Module 1 to write either a bash script or or one liner to ping ip's in the range of 10.0.5.2 - 10.0.5.50  your script should output a list of "up ip addresses" into a file called sweep.txt.  Submit a screenshot similar to the redacted one below that shows either your 1 liner command or source code, followed by a cat of sweep.txt.&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 3.**  Now, do the same thing with fping.  Investigate the switches that allow you to provide a range of ip addresses as well as reporting the "up" hosts.  You may need to throw out error messages.  Provide a screenshot similar to the one below.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 4.**  Use nmap's -sn switch to scan 10.0.5.21, it should report that it is up.  Execute nmap with this exercise.  Capture traffic on eth0 using Wireshark.  Provide a screenshot of your wireshark output. &#x20;
 
