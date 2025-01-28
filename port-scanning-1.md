@@ -28,7 +28,7 @@ sudo  nmap 10.0.5.31 -p 80
 
 sudo nmap 10.0.5.31 -p 3389
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 6.**  Describe the difference in the two wireshark captures
 

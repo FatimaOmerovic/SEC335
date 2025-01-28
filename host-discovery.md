@@ -10,7 +10,7 @@ Deliverable 1. Provide a screenshot similar to the one below that shows 1 outbou
 
 <figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 3.**  Now, do the same thing with fping.  Investigate the switches that allow you to provide a range of ip addresses as well as reporting the "up" hosts.  You may need to throw out error messages.  Provide a screenshot similar to the one below.
 
