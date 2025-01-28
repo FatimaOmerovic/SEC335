@@ -36,7 +36,7 @@ sudo nmap 10.0.5.31 -p 3389
 
 **Deliverable 7.**  Add the -Pn flag and provide a wireshark display.  You should have a total of 3 packets and evidence of a simple SYN scan similar to the one below.
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

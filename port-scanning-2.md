@@ -9,7 +9,7 @@ Deliverable 1. Observe and repeat the following interaction between kali and you
 
 1. Ping Windows 10 from Kali (it should fail)
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Wireshark on eth0 (not wg0) using a capture filter for your windows host ip address
 2. nmap against tcp/9999
@@ -56,7 +56,7 @@ xfreerdp /u:'USERNAME' /p:'PASSWORD' /v:IP ADDRESS
 
 **Deliverable 9.** Increase the output by running OS Detection, Version Detection, Script Scanning and traceroute against the exposed ports from your previous scan. Provide a screenshot showing your command and output similar to the one below. You will notice we have smb and netbios related information.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 10.** Create or extend an existing  wiki content page for nmap that details all the flags and techniques you used here. This page should be a valuable reference for nmap scanning for you as we move through the course. Spend some time on this, make sure your commands and techniques are well documented and formatted. Provide a link to your nmap entry.
 
