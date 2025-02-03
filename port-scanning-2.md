@@ -60,8 +60,8 @@ xfreerdp /u:'USERNAME' /p:'PASSWORD' /v:IP ADDRESS
 
 **Deliverable 10.** Create or extend an existing  wiki content page for nmap that details all the flags and techniques you used here. This page should be a valuable reference for nmap scanning for you as we move through the course. Spend some time on this, make sure your commands and techniques are well documented and formatted. Provide a link to your nmap entry.
 
-*
+* [https://github.com/FatimaOmerovic/SEC335/blob/SEC335/nmap.md](nmap.md)
 
 **Deliverable 11.** Make sure to include reflections from this week's lab either in your chronological reflections page or inline within the journal articles.
 
-*
+* I learned how to use xfreerdp on Kali to initiate an RDP session to the Windows 10 VM. We used different nmap flags such as -sV to gather service version information and -A for detailed scans.&#x20;
