@@ -42,5 +42,5 @@ sudo nmap 10.0.5.31 -p 3389
 
 **Deliverable 8.** Provide links to any source code written in accomplishing this lab's objectives. If you were asked to write a script (more than a line), make sure this is an actual file uploaded to the source part of github as opposed to a wiki entry.
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

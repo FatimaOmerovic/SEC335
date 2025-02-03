@@ -16,7 +16,7 @@ Deliverable 1. Provide a screenshot similar to the one below that shows 1 outbou
 
 <figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 4.**  Use nmap's -sn switch to scan 10.0.5.21, it should report that it is up.  Execute nmap with this exercise.  Capture traffic on eth0 using Wireshark.  Provide a screenshot of your wireshark output. &#x20;
 
