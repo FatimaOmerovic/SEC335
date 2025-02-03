@@ -49,6 +49,14 @@ cat zt.txt | grep -E ",*." | awk {'print $1","$5'} | grep -v ";"
 
 **Deliverable 8.** You've already uploaded source code, make sure that you create a page on dns enumeration and link to your uploaded shell scripts and also create content on the other interactive commands you used in this lab. Provide a link to this content page.
 
+[dns-resolver1.bash](dns-resolver1.bash)
+
+[portscanner3.bash](portscanner3.bash)
+
 
 
 **Deliverable 9.** Your chronological reflection should capture what you learned and wrote during this activity (you can link to things like your source code and your technical articles). Provide a link to your reflection entry.
+
+* I used the link below to help with the nmap commands. I've used nmap for really basic use and I feel like using the cheat sheet made it easier to understand and use.&#x20;
+
+[https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet.pdf](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet.pdf)
