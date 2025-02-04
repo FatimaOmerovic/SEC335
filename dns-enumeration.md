@@ -16,7 +16,7 @@
 
 **Deliverable 4.** Provide a screenshot similar to the one below that shows your directory structure and the source code of your dns resolver.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 5.  Use nmap to find your DNS servers.  Figure out how to:**
 
@@ -30,11 +30,11 @@
 
 ●   see if you can use a bash 1 or 2 liner to list the unique IP addresses that respond to DNS lookups.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 6.**  The following nmap command will use -sL (list targets) while specifying a dns server. See if you can do some magic with grep and cut or awk to produce output similar to the one below. Provide a screenshot showing your modified nmap run. Note, you may have different hosts listed as our target environment changes and grows over time.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 7.** zt.txt should have some useful information, see what you can do to parse it in a manner that we have a hostname and associated ip address. Provide a screenshot similar to the one below. Note, the screenshot below is not quite perfect as not every host has an IP address.
 
@@ -45,7 +45,7 @@ dig axfr @nsztm2.digi.ninja zonetransfer.me >> zt.txt
 cat zt.txt | grep -E ",*." | awk {'print $1","$5'} | grep -v ";"
 ```
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 8.** You've already uploaded source code, make sure that you create a page on dns enumeration and link to your uploaded shell scripts and also create content on the other interactive commands you used in this lab. Provide a link to this content page.
 
