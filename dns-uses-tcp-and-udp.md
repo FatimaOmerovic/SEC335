@@ -12,3 +12,4 @@
 
 **Deliverable 3.** Change your capture so that you are monitoring eth0 using the same port 53 capture filter. Repeat the zone transfer from zonetransfer.me from Activity 3.1. Provide a screenshot showing the tcp stream of this transfer. (Yes, zone transfers use TCP)
 
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
