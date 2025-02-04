@@ -39,7 +39,7 @@
 
 * The contents of /etc/passwd
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 * The code behind the status cgi
 
@@ -51,3 +51,23 @@
 
 **Deliverable 8.**  Armed with the contents of /etc/passwd, let's see if we can build a list of likely passwords for the target account.  You should end up with 28 passwords in your list. Provide a screenshot that shows how you generated the list as well as the list contents.
 
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+**Deliverable 9.**  Show a screenshot of your hydra session as well as a ssh login session using the targeted account.  Also dump the contents of user-flag.txt using cat or more.
+
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Deliverable 10.**  Tech Journal - Technical You likely have a lot of journaling to do!  Provide link(s) to content that covers:
+
+* How you determined the versions of the two services exposed by cupcake
+* How you dealt with parsing nmap result with nmaptocsv
+* The techniques you used to invoke remote code execution
+* The generation of a list of passwords and subsequent ssh bruteforce
+* Transfer of files using python and wget or any other mechanism you chose
+* Compiling and running a privilege escalation exploit (It can be different than the demo!)
+
+
+
+**Deliverable 11.** Tech Journal Reflection - Reflect on the exercise with emphasis on those techniques that you didn't quite understand or questions you would like to research.  This is not uncommon, this exercise demonstrates an end-to-end attack it is not expected you will know how all the techniques used work in detail.
