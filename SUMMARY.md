@@ -9,3 +9,4 @@
 * [DNS Enumeration](dns-enumeration.md)
 * [Powershell & DNS](powershell-and-dns.md)
 * [DNS uses TCP & UDP](dns-uses-tcp-and-udp.md)
+* [Cupcake](cupcake.md)
