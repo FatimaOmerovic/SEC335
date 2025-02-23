@@ -11,3 +11,4 @@
 * [DNS uses TCP & UDP](dns-uses-tcp-and-udp.md)
 * [Cupcake](cupcake.md)
 * [Password-Guessing](password-guessing.md)
+* [Pre-Lab Password Cracking](pre-lab-password-cracking.md)
