@@ -37,9 +37,6 @@ fddd
 
 **Deliverable 7.** Start a text or csv or markdown file similar to the one below. Include your successful guesses from Week 5 as well as the cracks from this week. We will need this data in our future adventures. A listing or screenshot of all your acquired passwords. This type of material is normally called "loot" in hacker parlance. Documenting uncracked hashes is also a great idea. You may have better luck cracking them as you learn more about your target or decide to crack on a real workstation instead of a kali vm.
 
-\
-
-
 | User           | Password          | Service |
 | -------------- | ----------------- | ------- |
 | samwise        |                   |         |
