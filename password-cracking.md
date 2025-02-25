@@ -40,19 +40,19 @@ fddd
 \
 
 
-| User           | Password | Service |
-| -------------- | -------- | ------- |
-| samwise        |          |         |
-| samwise.gamgee |          |         |
-| bilbo          |          |         |
-| bilbo.baggins  |          |         |
-| pippin         |          |         |
-| peregrin.took  |          |         |
-| frodo          |          |         |
-| frodo.baggins  |          |         |
-| gandalf.grey   |          |         |
-| boromir        |          |         |
-| galadriel      |          |         |
+| User           | Password          | Service |
+| -------------- | ----------------- | ------- |
+| samwise        |                   |         |
+| samwise.gamgee |                   |         |
+| bilbo          |                   |         |
+| bilbo.baggins  |                   |         |
+| pippin         |                   |         |
+| peregrin.took  | 28Peregrin        |         |
+| frodo          |                   |         |
+| frodo.baggins  |                   |         |
+| gandalf.grey   | gandalfrockyou    |         |
+| boromir        | BoRomir2000Z      |         |
+| galadriel      | galadrielarwen111 |         |
 
 **Deliverable 8.** Develop your own password cracking content page within your tech-journal or extend the password guessing content already created. You can include both tools in this page or create a page per tool. Provide associated links.\
 Document the following:
