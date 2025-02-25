@@ -22,3 +22,4 @@ sha256
 
 2\.  Your google search results on the two hashes (You will likely find the md5 and you may or may not find the sha256)
 
+<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption><p>Nothing can find the hashes</p></figcaption></figure>

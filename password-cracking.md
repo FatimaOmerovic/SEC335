@@ -28,3 +28,8 @@ Provide a screenshot that shows each explicitly labeled.  Note, you may see a di
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 5.** Let's see if you can reverse engineer the shadow file using python. The grayed out area has the plaintext password for gandalf. In the clear text part, you can see the rounds and the salt. Provide a screenshot similar to the one below. Use Boromir or Galadriel's shadow entry.
+
+<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+**Deliverable 6.** Crack at least one of the hashes using hashcat and show the result in a screenshot similar to the one below:
+
