@@ -51,14 +51,15 @@ fddd
 | boromir        | BoRomir2000Z      |         |
 | galadriel      | galadrielarwen111 |         |
 
-**Deliverable 8.** Develop your own password cracking content page within your tech-journal or extend the password guessing content already created. You can include both tools in this page or create a page per tool. Provide associated links.\
-Document the following:
+**Deliverable 8.** Develop your own password cracking content page
 
 * How to grab password hashes, Can you extend the example to grab only those shadow accounts that have a hash? Some lines don't even have a hash.
 * The format of the shadow file, with emphasis on username, algorithm, salt and hash. &#x20;
 * The use of unshadow
-* Cracking with john
-* Cracking with hashcat
+* [Cracking with john](https://www.techtarget.com/searchsecurity/tutorial/How-to-use-the-John-the-Ripper-password-cracker)
+* [Cracking with hashcat](https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/)
 * Make sure to understand how the algorithm within the shadow file relates with the flags you may need to pass to the program. Find a good reference that relates the code in the shadow file ($6$ or other) to the algorithm. Link to that.
 
 **Deliverable 9.** As always, reflect on this lab and any challenges or areas you are not clear on. What do you think about password generators and managers now?
+
+* I didn't realize password cracking took time, in the movies or shows it's usually like an "instant" thing so when I got to deliverable 4, it took me a while to understand that it takes time. I think password generators and managers are great and useful tools to use and I need to get on that.&#x20;
