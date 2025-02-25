@@ -33,3 +33,35 @@ Provide a screenshot that shows each explicitly labeled.  Note, you may see a di
 
 **Deliverable 6.** Crack at least one of the hashes using hashcat and show the result in a screenshot similar to the one below:
 
+fddd
+
+**Deliverable 7.** Start a text or csv or markdown file similar to the one below. Include your successful guesses from Week 5 as well as the cracks from this week. We will need this data in our future adventures. A listing or screenshot of all your acquired passwords. This type of material is normally called "loot" in hacker parlance. Documenting uncracked hashes is also a great idea. You may have better luck cracking them as you learn more about your target or decide to crack on a real workstation instead of a kali vm.
+
+\
+
+
+| User           | Password | Service |
+| -------------- | -------- | ------- |
+| samwise        |          |         |
+| samwise.gamgee |          |         |
+| bilbo          |          |         |
+| bilbo.baggins  |          |         |
+| pippin         |          |         |
+| peregrin.took  |          |         |
+| frodo          |          |         |
+| frodo.baggins  |          |         |
+| gandalf.grey   |          |         |
+| boromir        |          |         |
+| galadriel      |          |         |
+
+**Deliverable 8.** Develop your own password cracking content page within your tech-journal or extend the password guessing content already created. You can include both tools in this page or create a page per tool. Provide associated links.\
+Document the following:
+
+* How to grab password hashes, Can you extend the example to grab only those shadow accounts that have a hash? Some lines don't even have a hash.
+* The format of the shadow file, with emphasis on username, algorithm, salt and hash. &#x20;
+* The use of unshadow
+* Cracking with john
+* Cracking with hashcat
+* Make sure to understand how the algorithm within the shadow file relates with the flags you may need to pass to the program. Find a good reference that relates the code in the shadow file ($6$ or other) to the algorithm. Link to that.
+
+**Deliverable 9.** As always, reflect on this lab and any challenges or areas you are not clear on. What do you think about password generators and managers now?
