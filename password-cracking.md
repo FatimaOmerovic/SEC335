@@ -54,11 +54,11 @@ Provide a screenshot that shows each explicitly labeled.  Note, you may see a di
 **Deliverable 8.** Develop your own password cracking content page
 
 * How to grab password hashes, Can you extend the example to grab only those shadow accounts that have a hash? Some lines don't even have a hash.
-* The format of the shadow file, with emphasis on username, algorithm, salt and hash. &#x20;
-* The use of unshadow
+* [unshadow](https://manpages.ubuntu.com/manpages/trusty/man8/unshadow.8.html)
 * [Cracking with john](https://www.techtarget.com/searchsecurity/tutorial/How-to-use-the-John-the-Ripper-password-cracker)
 * [Cracking with hashcat](https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/)
-* Make sure to understand how the algorithm within the shadow file relates with the flags you may need to pass to the program. Find a good reference that relates the code in the shadow file ($6$ or other) to the algorithm. Link to that.
+
+
 
 **Deliverable 9.** As always, reflect on this lab and any challenges or areas you are not clear on. What do you think about password generators and managers now?
 
