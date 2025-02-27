@@ -33,23 +33,23 @@ Provide a screenshot that shows each explicitly labeled.  Note, you may see a di
 
 **Deliverable 6.** Crack at least one of the hashes using hashcat and show the result in a screenshot similar to the one below:
 
-fddd
+<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 7.** Start a text or csv or markdown file similar to the one below. Include your successful guesses from Week 5 as well as the cracks from this week. We will need this data in our future adventures. A listing or screenshot of all your acquired passwords. This type of material is normally called "loot" in hacker parlance. Documenting uncracked hashes is also a great idea. You may have better luck cracking them as you learn more about your target or decide to crack on a real workstation instead of a kali vm.
 
 | User           | Password          | Service |
 | -------------- | ----------------- | ------- |
-| samwise        |                   |         |
-| samwise.gamgee |                   |         |
-| bilbo          |                   |         |
-| bilbo.baggins  |                   |         |
-| pippin         |                   |         |
-| peregrin.took  | 28Peregrin        |         |
-| frodo          |                   |         |
-| frodo.baggins  |                   |         |
-| gandalf.grey   | gandalfrockyou    |         |
-| boromir        | BoRomir2000Z      |         |
-| galadriel      | galadrielarwen111 |         |
+| samwise        | X                 | X       |
+| samwise.gamgee | X                 | X       |
+| bilbo          | X                 | X       |
+| bilbo.baggins  | X                 | X       |
+| pippin         | X                 | X       |
+| peregrin.took  | 28Peregrin        | X       |
+| frodo          | X                 | X       |
+| frodo.baggins  | X                 | X       |
+| gandalf.grey   | gandalfrockyou    | X       |
+| boromir        | BoRomir2000Z      | X       |
+| galadriel      | galadrielarwen111 | X       |
 
 **Deliverable 8.** Develop your own password cracking content page
 
