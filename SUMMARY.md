@@ -13,3 +13,4 @@
 * [Password-Guessing](password-guessing.md)
 * [Pre-Lab Password Cracking](pre-lab-password-cracking.md)
 * [Password Cracking](password-cracking.md)
+* [Exploiting Pippin](exploiting-pippin.md)
