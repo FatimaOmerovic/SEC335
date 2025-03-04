@@ -4,7 +4,7 @@
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 2.** Research what hashing algorithm is being used on this server, one of the fields in /etc/shadow points to the format. Explain this.
 
@@ -23,9 +23,9 @@ Provide a screenshot that shows each explicitly labeled.  Note, you may see a di
 
 **Deliverable 4.** Figure out how to use the unshadow utility to create a file usable by John the Ripper(JtR) and then crack the unshadowed files hashes using JtR. Provide a screenshot showing your results.&#x20;
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 5.** Let's see if you can reverse engineer the shadow file using python. The grayed out area has the plaintext password for gandalf. In the clear text part, you can see the rounds and the salt. Provide a screenshot similar to the one below. Use Boromir or Galadriel's shadow entry.
 
