@@ -15,3 +15,4 @@
 * [Password Cracking](password-cracking.md)
 * [Exploiting Pippin](exploiting-pippin.md)
 * [Webshells](webshells.md)
+* [Weevely](weevely.md)
