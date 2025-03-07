@@ -16,4 +16,4 @@
 * [Exploiting Pippin](exploiting-pippin.md)
 * [Webshells](webshells.md)
 * [Weevely](weevely.md)
-* [Weevely](weevely-1.md)
+* [Reverse Shells](reverse-shells.md)
