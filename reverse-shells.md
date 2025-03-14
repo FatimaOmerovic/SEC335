@@ -25,5 +25,23 @@ The following powershell code is run via cmd.exe.  Change ATTACKERIP and ATTACKE
 
 **Microsoft Defender to the Rescue**
 
-Microsoft Defender is an outstanding antivirus platform and it knows we are up to no good, in order to progress with the example we will need to turn off AV protection. Figure out how to do this.  We will need to consider Microsoft Defender and other host based protections in our penetration testing efforts.\
+```
+Set-MpPreference -DisableRealtimeMonitoring $true
+```
+
+**Deliverable 3.** Access your windows VM. Provide a screenshot similar to the one below that shows the unsuccessful execution of powershell via cmd.exe followed by the successful reverse shell after you figure out how to turn off Windows Defender.
+
+<figure><img src=".gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+
+**Deliverable 4.** Hit the internet, see if you can create a python2,3 or php reverse shell on any of the linux targets. Provide a screenshot similar to the one below as well as the full text of the command used and the results of the id command invoked on the rocky through the reverse shell.
+
+<figure><img src=".gitbook/assets/Screenshot 2025-03-14 175715.jpg" alt=""><figcaption></figcaption></figure>
+
+**Deliverable 5.** Create a technical journal entry about reverse shells.  Make sure to document all the techniques you used in this lab as well as any reflections on areas you were unclear about or wish to pursue further.  Provide a link to this entry and one to your reflections if covered on another page. Make sure to document how to turn off or hamstring Windows Defender. This is best done in powershell.
+
+I used this for reverse shell documentation and for the last python deliverable: [https://www.imperva.com/learn/application-security/reverse-shell/](https://www.imperva.com/learn/application-security/reverse-shell/)
+
 \
+I think my favorite part of the lab was disabling windows defender and then doing a windows reverse shell. I feel as if the lab was clear and concise and easy to follow.&#x20;
