@@ -2,10 +2,17 @@
 
 **Deliverables:**
 
-**1.**  Display the Login name and password for arbitrary user\
-**2.**  Error condition when number of columns are exceeded\
-**3.**  A Union select that displays your own value for login name and password\
-**4.**  Another union that displays the mysql user and database\
+**1.**  Display the Login name and password for arbitrary user
+
+![](<.gitbook/assets/image (63).png>)\
+**2.**  Error condition when number of columns are exceeded
+
+![](<.gitbook/assets/image (64).png>)\
+**3.**  A Union select that displays your own value for login name and password
+
+**4.**  Another union that displays the mysql user and database
+
+![](<.gitbook/assets/image (67).png>)\
 **5.**  A union that dumps all the tables in the current database\
 **6.**  A union that dumps all the usernames and passwords
 
