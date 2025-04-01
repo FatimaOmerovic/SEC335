@@ -19,3 +19,4 @@
 * [Reverse Shells](reverse-shells.md)
 * [SQLi Review](sqli-review.md)
 * [Exploiting Gloin](exploiting-gloin.md)
+* [Linux Permissions](linux-permissions.md)
