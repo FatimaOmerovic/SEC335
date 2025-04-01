@@ -19,3 +19,15 @@
 **Deliverable 5.** A suid program has been hidden on rocky (10.0.17.200). Please hunt it down. Provide a screenshot that shows the command and file found.  It will be obvious and the name will start with a 'b'.\
 \
 **rwx errors**
+
+<figure><img src=".gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+
+**Deliverable 6.** Consider the following screenshot. This user created a file under /etc/ that is world writable. Were this file to be of any security relevance, this could be a problem. Create such a file, and figure out how to find it. Show your command.
+
+<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+
+**Deliverable 7.** A world writable file has been hidden on rocky. Please hunt it down. Provide a screenshot that shows the command and file found. It will start with an 's'. (note, the sys and proc directories will give you a lot of false positives)
+
+<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+
+**Deliverable 8.** Document your suid and world writable hunting techniques in your tech journal. You may have a need for them later. Provide a link to this technical article. No reflection is required.
