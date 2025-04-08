@@ -20,3 +20,4 @@
 * [SQLi Review](sqli-review.md)
 * [Exploiting Gloin](exploiting-gloin.md)
 * [Linux Permissions](linux-permissions.md)
+* [Exploiting Nancurinir](exploiting-nancurinir.md)
