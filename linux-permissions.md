@@ -31,3 +31,5 @@
 <figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 8.** Document your suid and world writable hunting techniques in your tech journal. You may have a need for them later. Provide a link to this technical article. No reflection is required.
+
+* SUID, also known as Set User ID, is a special permission that can be assigned to executable files. When an executable file has the SUID permission enabled, it allows users who execute the file to temporarily assume the privileges of the file's owner
