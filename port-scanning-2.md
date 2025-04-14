@@ -32,27 +32,27 @@ Enabling RDP = Settings >> System >> Remote Desktop >> Enable
 xfreerdp /u:'USERNAME' /p:'PASSWORD' /v:IP ADDRESS
 ```
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 4.**  Add the -sV flag to your previous nmap scan against rdp on windows 10 and provide a screenshot similar to the one below (include your nmap command).  You will note a bit more verbiage than seen without the flag.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 5.**  Replace -sV with -A to attempt to derive more information on the host and exposed service.  Provide a screenshot similar to the one below.  You will notice that the rdp-ntlm-info script provides a good deal of information (1) and that the OS detection output is not very accurate at all.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 6.**  Run an nmap scan against your windows 10 system.  Only target tcp ports 1-6000.  Provide a screenshot showing your command and output.
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 7.** Rescan ports 1-6000.  Provide a screenshot similar to the one below that shows your command and results.  You will note that 3 new ports have been exposed.
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 8.** Figure out how to run a version scan against only the ports exposed above.  Provide a screenshot showing your nmap command and the output similar to the one below.
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 9.** Increase the output by running OS Detection, Version Detection, Script Scanning and traceroute against the exposed ports from your previous scan. Provide a screenshot showing your command and output similar to the one below. You will notice we have smb and netbios related information.
 
