@@ -16,7 +16,9 @@ In the following file: [Metasploit Framework demonstration-1.pptx](https://champ
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (88).png" alt=""><figcaption><p>set password as banana</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (89).png" alt=""><figcaption><p>Logged into the target firefart</p></figcaption></figure>
 
 ## **Another Target**
 
