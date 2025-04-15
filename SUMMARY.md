@@ -21,3 +21,4 @@
 * [Exploiting Gloin](exploiting-gloin.md)
 * [Linux Permissions](linux-permissions.md)
 * [Exploiting Nancurinir](exploiting-nancurinir.md)
+* [The Metasploit Framework](the-metasploit-framework.md)
