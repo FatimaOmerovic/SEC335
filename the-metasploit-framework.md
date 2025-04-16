@@ -35,3 +35,13 @@ In the following file: [Metasploit Framework demonstration-1.pptx](https://champ
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 3.** Document Metasploit usage to include Exploit selection, Payload selection and the other SET instructions required to get your exploits and metasploit sessions to work. Reflect on this activity and compare the relative merits of exploiting with the frameworks as compared to your hand crafted exploits.
+
+
+
+* msfconsole: launches metasploit
+* use: select what you want to use ex: payloads
+* options: used this to set the rhost, lport, and etc.&#x20;
+
+
+
+I had trouble with the target because of the passwd.bak file, but reverting the target resolved the issue instantly and I was able to progress.&#x20;
