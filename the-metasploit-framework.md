@@ -8,13 +8,13 @@ In the following file: [Metasploit Framework demonstration-1.pptx](https://champ
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>msfconsole</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>msfconsole</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (88).png" alt=""><figcaption><p>set password as banana</p></figcaption></figure>
 
@@ -24,8 +24,14 @@ In the following file: [Metasploit Framework demonstration-1.pptx](https://champ
 
 **Deliverable 2.** Gain a foothold on Nancurinir using Metasploit. Provide a series of screenshots that document your interactions with the target via your Metasploit session(s). &#x20;
 
-Alternatively you can use Metasploit on a home target such as [metasploitable2Links to an external site.](https://docs.rapid7.com/metasploit/metasploitable-2) or hackthebox target for this second target. &#x20;
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Deliverable 3.** Document Metasploit usage to include Exploit selection, Payload selection and the other SET instructions required to get your exploits and metasploit sessions to work. Reflect on this activity and compare the relative merits of exploiting with the frameworks as compared to your hand crafted exploits.

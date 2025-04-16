@@ -6,7 +6,7 @@ description: '5.1'
 
 **Deliverable 1.** Provide a screenshot that shows the lookup and reported hostname.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Using cewl: cewl -w wordlist\_\_.txt http://10.0.5.21/bios/\_\_\_\_/
 
