@@ -27,7 +27,12 @@ cat file
 
 **Deliverable 5.** For at least 3 shire staff, bypass authentication on the protected directory using the tool of your choice. Provide screenshot(s) showing the tool execution and the guessed password. (Make sure you validate all of these work)
 
-<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption><p>frodo</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption><p>pippin</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (90).png" alt=""><figcaption><p>bilbo</p></figcaption></figure>
+
+**Deliverable 6.** Submit screenshots of your tool of choice reporting successful ssh password guesses of at least 3 member's linux accounts.
+
+<figure><img src=".gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
